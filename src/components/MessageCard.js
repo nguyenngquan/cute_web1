@@ -185,7 +185,7 @@ const messages = [
     "8/3 là ngày phụ nữ được yêu thương nhiều hơn, nhưng m thì lúc nào cũng được t yêu thương rồi. Nên hôm nay chỉ khác là t yêu m hơn bình thường một xíu thôi!",
     "Ngày 8/3 t chẳng có gì nhiều, chỉ có một tấm lòng chân thành và một chiếc vai để mày dựa vào mỗi khi mệt mỏi!",
     "8/3 này, t chưa thể tặng m cả thế giới, nhưng t có thể tặng m cả t :)). M cứ nhận đi, đừng khách sáo!"
-    "Chúc mừng Ngày Phụ nữ! Em xứng đáng có được tất cả hạnh phúc trên thế giới này."
+    "Chúc mừng Ngày Phụ nữ! Em xứng đáng có được tất cả hạnh phúc trên thế giới này.",
     "Làm ny t nhớ..."
 ];
 
