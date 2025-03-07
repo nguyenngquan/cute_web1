@@ -186,6 +186,7 @@ const messages = [
     "Ngày 8/3 t chẳng có gì nhiều, chỉ có một tấm lòng chân thành và một chiếc vai để mày dựa vào mỗi khi mệt mỏi!",
     "8/3 này, t chưa thể tặng m cả thế giới, nhưng t có thể tặng m cả t :)). M cứ nhận đi, đừng khách sáo!"
     "Chúc mừng Ngày Phụ nữ! Em xứng đáng có được tất cả hạnh phúc trên thế giới này."
+    "Minh yêu nhau nhớ."
 ];
 
 // Then update the MessageCard component to accept and pass the prop:
